@@ -1,7 +1,7 @@
 # Hometask for "Classes and it's using in Python"
 
 
-** In the above solution, an adjustment was made to the task for multinheritance: a goat can not only be milked, but also breaded. **
+**In the above solution, an adjustment was made to the task for multinheritance: a goat can not only be milked, but also breaded.**
 
 Initial data, animals:
  
